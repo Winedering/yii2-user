@@ -1,15 +1,6 @@
 {
     "name": "winedering/yii2-user",
-    "description": "Winedering maintained fork of dektrium/yii2-user. Unified login and registration, bugfixes, and modern PHP support.",
-    "keywords": [
-        "yii2",
-        "yii2-user",
-        "user",
-        "authentication",
-        "registration",
-        "dektrium",
-        "winedering"
-    ],
+    "description": "Winedering maintained fork of dektrium/yii2-user. Unified login and registration, bugfixes, and modern PHP support.",    
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
